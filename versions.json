@@ -1,6 +1,6 @@
 {
     "android": {
-        "latest": "N/A",
+        "latest": "0.6.15",
         "versions": [{
             "version": "0.6.15",
             "changelog": "N/A",
