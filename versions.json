@@ -27,18 +27,6 @@
                             "url": "https://t.me/SaturnReleases/"
                         }
                     ]
-                },
-                {
-                    "version": "iOS",
-                    "links": [{
-                            "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/"
-                        },
-                        {
-                            "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/"
-                        }
-                    ]
                 }
             ]
         }]
