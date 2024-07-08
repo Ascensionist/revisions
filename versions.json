@@ -39,18 +39,6 @@
                             "url": "https://t.me/SaturnReleases/"
                         }
                     ]
-                },
-                {
-                    "version": "WearOS (WearOS 3 or above)",
-                    "links": [{
-                            "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/"
-                        },
-                        {
-                            "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/"
-                        }
-                    ]
                 }
             ]
         }]
