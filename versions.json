@@ -36,18 +36,7 @@
         "versions": [{
             "version": "N/A",
             "changelog": "N/A",
-            "downloads": [{
-                    "version": "Linux (AppImage)",
-                    "links": [{
-                            "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/"
-                        },
-                        {
-                            "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/"
-                        }
-                    ]
-                },
+            "downloads": [
                 {
                     "version": "Windows Portable x64",
                     "links": [{
