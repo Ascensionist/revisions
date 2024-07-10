@@ -32,20 +32,20 @@
         }]
     },
     "pc": {
-        "latest": "N/A",
+        "latest": "1.0.0",
         "versions": [{
-            "version": "N/A",
-            "changelog": "N/A",
+            "version": "1.0.0",
+            "changelog": "1.0.0",
             "downloads": [
                 {
                     "version": "Windows Portable x64",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.0/Saturn.1.0.0.exe"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/"
+                            "url": "https://t.me/SaturnReleases/6"
                         }
                     ]
                 },
@@ -53,11 +53,11 @@
                     "version": "Windows Setup x64",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.0/Saturn.Setup.1.0.0.exe"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/"
+                            "url": "https://t.me/SaturnReleases/7"
                         }
                     ]
                 }
