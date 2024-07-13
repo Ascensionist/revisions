@@ -3,13 +3,7 @@
         "latest": "1.0.1",
         "versions": [{
             "version": "1.0.1",
-            "changelog": "Saturn Mobile v1.0.1
-
-Fixed Downloads, Visualizer and discover;
-
- - Fixed Visualizer
- - Corrected discover page
- - Fixed downloads",
+            "changelog": "Saturn Mobile v1.0.1: Fixed Downloads, Visualizer and discover.",
             "downloads": [{
                     "version": "Android BETA",
                     "links": [{
