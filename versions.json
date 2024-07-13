@@ -19,13 +19,37 @@
             ]
         }]
     },
-    "linux": {
+    "pc": {
         "latest": "1.0.1",
         "versions": [{
             "version": "1.0.1",
-            "changelog": "Linux build",
+            "changelog": "Fixed issue with covers not appearing properly",
             "downloads": [
                 {
+                    "version": "Windows Portable x64",
+                    "links": [{
+                            "title": "Direct",
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.1/Saturn.1.0.1.exe"
+                        },
+                        {
+                            "title": "Telegram",
+                            "url": "https://t.me/SaturnReleases/9"
+                        }
+                    ]
+                },
+                {
+                    "version": "Windows Setup x64",
+                    "links": [{
+                            "title": "Direct",
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.1/Saturn.Setup.1.0.1.exe"
+                        },
+                        {
+                            "title": "Telegram",
+                            "url": "https://t.me/SaturnReleases/10"
+                        }
+                    ]
+                },
+                 {
                     "version": "Linux .tar.xz",
                     "links": [{
                             "title": "Direct",
@@ -58,39 +82,6 @@
                         {
                             "title": "Telegram",
                             "url": "https://t.me/SaturnReleases/12"
-                        }
-                    ]
-                }
-            ]
-        }]
-    },
-    "pc": {
-        "latest": "1.0.1",
-        "versions": [{
-            "version": "1.0.1",
-            "changelog": "Fixed issue with covers not appearing properly",
-            "downloads": [
-                {
-                    "version": "Windows Portable x64",
-                    "links": [{
-                            "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.1/Saturn.1.0.1.exe"
-                        },
-                        {
-                            "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/9"
-                        }
-                    ]
-                },
-                {
-                    "version": "Windows Setup x64",
-                    "links": [{
-                            "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.1/Saturn.Setup.1.0.1.exe"
-                        },
-                        {
-                            "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/10"
                         }
                     ]
                 }
