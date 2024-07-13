@@ -19,6 +19,51 @@
             ]
         }]
     },
+    "linux": {
+        "latest": "1.0.1",
+        "versions": [{
+            "version": "1.0.1",
+            "changelog": "Linux build",
+            "downloads": [
+                {
+                    "version": "Linux .tar.xz",
+                    "links": [{
+                            "title": "Direct",
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.1/saturn-1.0.1.tar.xz"
+                        },
+                        {
+                            "title": "Telegram",
+                            "url": "https://t.me/SaturnReleases/14"
+                        }
+                    ]
+                },
+                {
+                    "version": "Linux .AppImage",
+                    "links": [{
+                            "title": "Direct",
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.1/Saturn-1.0.1.AppImage"
+                        },
+                        {
+                            "title": "Telegram",
+                            "url": "https://t.me/SaturnReleases/13"
+                        }
+                    ]
+                },
+                {
+                    "version": "Linux .deb",
+                    "links": [{
+                            "title": "Direct",
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.1/saturn_1.0.1_amd64.deb"
+                        },
+                        {
+                            "title": "Telegram",
+                            "url": "https://t.me/SaturnReleases/12"
+                        }
+                    ]
+                }
+            ]
+        }]
+    },
     "pc": {
         "latest": "1.0.1",
         "versions": [{
