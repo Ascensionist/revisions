@@ -1,18 +1,24 @@
 {
     "android": {
-        "latest": "1.0.0",
+        "latest": "1.0.1",
         "versions": [{
-            "version": "1.0.0",
-            "changelog": "Inital Release",
+            "version": "1.0.1",
+            "changelog": "Saturn Mobile v1.0.1
+
+Fixed Downloads, Visualizer and discover;
+
+ - Fixed Visualizer
+ - Corrected discover page
+ - Fixed downloads",
             "downloads": [{
                     "version": "Android BETA",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v1.0.0B/SaturnMobile1.0.0BETA.apk"
+                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v1.0.1B/SaturnMobile_v1.0.1_beta.apk"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/8"
+                            "url": "https://t.me/SaturnReleases/24"
                         }
                     ]
                 }
