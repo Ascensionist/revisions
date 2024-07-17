@@ -20,19 +20,19 @@
         }]
     },
     "linux": {
-        "latest": "1.0.3",
+        "latest": "1.0.4",
         "versions": [{
-            "version": "1.0.3",
+            "version": "1.0.4",
             "changelog": "Linux build",
             "downloads": [{
                     "version": "Linux .tar.xz",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.3/saturn-1.0.3.tar.xz"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.4/saturn-1.0.4.tar.xz"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/32"
+                            "url": "https://t.me/SaturnReleases/37"
                         }
                     ]
                 },
@@ -40,11 +40,11 @@
                     "version": "Linux .AppImage",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.3/Saturn-1.0.3.AppImage"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.4/Saturn-1.0.4.AppImage"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/31"
+                            "url": "https://t.me/SaturnReleases/36"
                         }
                     ]
                 },
@@ -52,11 +52,11 @@
                     "version": "Linux .deb",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.3/saturn_1.0.3_amd64.deb"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.4/saturn_1.0.4_amd64.deb"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/30"
+                            "url": "https://t.me/SaturnReleases/38"
                         }
                     ]
                 }
@@ -64,20 +64,20 @@
         }]
     },
     "pc": {
-        "latest": "1.0.3",
+        "latest": "1.0.4",
         "versions": [{
-            "version": "1.0.3",
-            "changelog": "Fixed issue with covers not appearing properly",
+            "version": "1.0.4",
+            "changelog": "Hotfix",
             "downloads": [
                 {
                     "version": "Windows Portable x64",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.3/Saturn.1.0.3.exe"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.4/Saturn.1.0.4.exe"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/28"
+                            "url": "https://t.me/SaturnReleases/34"
                         }
                     ]
                 },
@@ -85,11 +85,11 @@
                     "version": "Windows Setup x64",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.3/Saturn.Setup.1.0.3.exe"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.4/Saturn.Setup.1.0.4.exe"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/29"
+                            "url": "https://t.me/SaturnReleases/35"
                         }
                     ]
                 }
