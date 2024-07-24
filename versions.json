@@ -1,18 +1,18 @@
 {
     "android": {
-        "latest": "1.0.3",
+        "latest": "1.0.4",
         "versions": [{
-            "version": "1.0.3",
-            "changelog": "Saturn Android 1.0.3:\n- Updated Homepage API to include flows.\n- Fixed Misaligned podcasts.",
+            "version": "1.0.4",
+            "changelog": "Saturn Android 1.0.4:\nTHE FIX\n- Fixed Updater\n- Fixed Incorrectly Detected Favorites\n- Fixed Apperance issues",
             "downloads": [{
                     "version": "Android (arm64 / aarch64)",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v1.0.3/Saturn-arm64-v1.0.3.apk"
+                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v1.0.4/Saturn-arm64-v1.0.4.apk"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/51"
+                            "url": "https://t.me/SaturnReleases/56"
                         }
                     ]
                 },
@@ -20,11 +20,11 @@
                     "version": "Android (arm32 / armhf)",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v1.0.3/Saturn-arm32-v1.0.3.apk"
+                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v1.0.4/Saturn-arm32-v1.0.4.apk"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/52"
+                            "url": "https://t.me/SaturnReleases/57"
                         }
                     ]
                 },
@@ -32,11 +32,11 @@
                     "version": "Android (x86_64)",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v1.0.3/Saturn-x86_64-v1.0.3.apk"
+                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v1.0.4/Saturn-x86_64-v1.0.4.apk"
                         },
                         {
                             "title": "Telegram",
-                            "url": "https://t.me/SaturnReleases/53"
+                            "url": "https://t.me/SaturnReleases/55"
                         }
                     ]
                 }
