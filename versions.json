@@ -3,7 +3,7 @@
         "latest": "1.0.5",
         "versions": [{
             "version": "1.0.5",
-            "changelog": "Saturn Android 1.0.5:\nTHE FIXEST FIX\n- Fixed Logins\n- Changed Loading Screen Color from white to black/gray.\n- Fixed more apperance issues.",
+            "changelog": "Saturn Android 1.0.5: THE FIXEST FIX\n- Fixed Logins\n- Changed Loading Screen Color from white to black/gray.\n- Fixed more apperance issues.",
             "downloads": [{
                     "version": "Android (arm64 / aarch64)",
                     "links": [{
