@@ -44,15 +44,15 @@
         }]
     },
     "linux": {
-        "latest": "1.0.6",
+        "latest": "1.1.0",
         "versions": [{
-            "version": "1.0.6",
+            "version": "1.1.0",
             "changelog": "Linux build",
             "downloads": [{
                     "version": "Linux .tar.xz",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.5/saturn-1.0.5.tar.xz"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.1.0/saturn-1.1.0.tar.xz"
                         },
                         {
                             "title": "Telegram",
@@ -64,7 +64,7 @@
                     "version": "Linux .AppImage",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.5/Saturn-1.0.5.AppImage"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.1.0/Saturn-1.0.5.AppImage"
                         },
                         {
                             "title": "Telegram",
@@ -76,7 +76,7 @@
                     "version": "Linux .deb",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.6/saturn_1.0.6_amd64.deb"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.1.0/saturn_1.1.0_amd64.deb"
                         },
                         {
                             "title": "Telegram",
@@ -88,16 +88,16 @@
         }]
     },
     "pc": {
-        "latest": "1.0.6",
+        "latest": "1.1.0",
         "versions": [{
-            "version": "1.0.6",
+            "version": "1.1.0",
             "changelog": "PC build",
             "downloads": [
                 {
                     "version": "Windows Portable x64",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.6/Saturn.1.0.6.exe"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.1.0/Saturn.1.1.0.exe"
                         },
                         {
                             "title": "Telegram",
@@ -109,7 +109,7 @@
                     "version": "Windows Setup x64",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.6/Saturn.Setup.1.0.6.exe"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.1.0/Saturn.Setup.1.1.0.exe"
                         },
                         {
                             "title": "Telegram",
@@ -121,7 +121,7 @@
                     "version": "OSX",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.0.6/Saturn-1.0.6.dmg"
+                            "url": "https://github.com/SaturnMusic/PC/releases/download/v1.1.0/Saturn-1.1.0.dmg"
                         },
                         {
                             "title": "Telegram",
