@@ -1,14 +1,14 @@
 {
     "android": {
-        "latest": "2.1.0",
+        "latest": "2.2.0",
         "versions": [{
-            "version": "2.1.0",
-            "changelog": "Saturn Android 2.1.0: Clubs Support\n- Clubs\n- Click to seek on lyrics.\n- Merge Upstream",
+            "version": "2.2.0",
+            "changelog": "Saturn Android 2.2.0: Alternative Lyric Providers\nThis includes:\n- MusixMatch\n- LRCLib\n - Genius\n & more coming soon.",
             "downloads": [{
                     "version": "Android (arm64 / aarch64)",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v2.1.0/Saturn-arm64-v2.1.0.apk"
+                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v2.2.0/Saturn-arm64-v2.2.0.apk"
                         },
                         {
                             "title": "Telegram",
@@ -20,7 +20,7 @@
                     "version": "Android (arm32 / armhf)",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v2.1.0/Saturn-arm32-v2.1.0.apk"
+                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v2.1.0/Saturn-arm32-v2.2.0.apk"
                         },
                         {
                             "title": "Telegram",
@@ -32,7 +32,7 @@
                     "version": "Android (x86_64)",
                     "links": [{
                             "title": "Direct",
-                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v2.1.0/Saturn-x86_64-v2.1.0.apk"
+                            "url": "https://github.com/SaturnMusic/mobile/releases/download/v2.1.0/Saturn-x86_64-v2.2.0.apk"
                         },
                         {
                             "title": "Telegram",
